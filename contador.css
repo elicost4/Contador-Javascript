@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    font: normal bold 16px/normal tahoma;
+    background-image: linear-gradient(to right, rgb(178, 190, 184) , rgb(133, 133, 231));;
+}
+
+article {
+    width: 300px;
+    text-align: center;
+    background-color: #68b04d;
+    border-radius: 10px;
+    margin: 50px auto 20px;
+    overflow: hidden;
+    box-shadow: 3px 3px 10px #ccc;
+}
+
+article h3 {
+    padding: 10px;
+    color: #fff;
+}
+
+article .count {
+    padding: 10px;
+}
+
+article #timer {
+    color: crimson;
+    background-color: aliceblue;
+    border-radius: 3px;
+}
+
+button {
+    margin: 5px;
+    padding: 2px;
+    border-radius: 3px;
+    border-color: rgb(255, 255, 255);
+}
