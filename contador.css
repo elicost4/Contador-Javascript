@@ -30,7 +30,7 @@ article .count {
 }
 
 article #timer {
-    color: crimson;
+    color: rgb(231, 17, 60);
     background-color: aliceblue;
     border-radius: 3px;
 }
